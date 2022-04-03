@@ -1,1 +1,0 @@
-# degine_patten
